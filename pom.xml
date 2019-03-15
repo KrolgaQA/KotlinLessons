@@ -8,7 +8,7 @@
     <version>1.0</version>
     <packaging>jar</packaging>
 
-    <name>com.kotlin.test Kotlin_lessons</name>
+    <name>com.kotlin.coreConstructions Kotlin_lessons</name>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

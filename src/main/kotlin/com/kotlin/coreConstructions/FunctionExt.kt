@@ -1,4 +1,4 @@
-package com.kotlin.test
+package com.kotlin.coreConstructions
 
 fun main(args: Array<String>) {
     hello() // вызов функции hello
